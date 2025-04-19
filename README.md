@@ -31,11 +31,11 @@ Jan 2023 – Feb 2023
 ---
 
 ## 🧠 Projects I’m Proud Of:
-- FMCG Recommendation System
-- A hybrid system combining content-based and collaborative filtering to assist middlemen in choosing better products.
+**FMCG Recommendation System**
+- A hybrid system combining content-based and collaborative filtering to assist middlemen in choosing better products./n
 🔗 Published in IJRASET – Mar 2025
 
-- Simple File Sharing System
+**Simple File Sharing System**
 - A clean and functional file-sharing platform using web technologies, allowing easy upload and access via links.
 
 ---
@@ -50,8 +50,8 @@ Jan 2023 – Feb 2023
 **Club Coordinator – Chess Club**
 - Organized tournaments and promoted cognitive skill development through chess
 
-  **Class Representative – 2022–23**
-  - Acted as the bridge between students and faculty to ensure smooth academic coordination
+**Class Representative – 2022–23**
+- Acted as the bridge between students and faculty to ensure smooth academic coordination
 
 ---
 
