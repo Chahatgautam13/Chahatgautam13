@@ -3,6 +3,7 @@
 ---
 
 🚀 A builder by mindset, coder by heart, and learner for life.
+
 🎓 Final-year Computer Science & Engineering student at CMR University, Bengaluru — passionate about building real-world tech solutions and continuously sharpening my skills in Python, DSA, and Web Development.
 
 ---
