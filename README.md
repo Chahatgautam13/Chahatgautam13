@@ -7,10 +7,10 @@
 
 ---
 
-💡 What I’m Into:
-Writing clean, efficient code and solving problems through Data Structures & Algorithms
-Developing modern, responsive web applications using JavaScript, Node.js, and Express.js
-Collaborating with teams, leading initiatives, and learning something new every day
+## 💡 What I’m Into:
+- Writing clean, efficient code and solving problems through Data Structures & Algorithms
+- Developing modern, responsive web applications using JavaScript, Node.js, and Express.js
+- Collaborating with teams, leading initiatives, and learning something new every day
 
 ---
 
