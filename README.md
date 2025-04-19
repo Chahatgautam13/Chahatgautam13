@@ -15,11 +15,11 @@
 
 ## 🛠️ Tech Toolbox
 
-### 💻 Languages: 🐍 Python · 🌐 JavaScript
-### 🎨 Frontend: 🧱 HTML · 🎨 CSS · 💡 JavaScript
-### 🛠️ Backend: ⚙️ Node.js · 🚂 Express.js
-### 🗃️ Databases: 🐘 PostgreSQL · 📦 SQLite
-### 🧰 Tools: 🧪 Git · 🐙 GitHub · 🖥️ VS Code
+###  Languages: 🐍 Python · 🌐 JavaScript
+###  Frontend: 🧱 HTML · 🎨 CSS · 💡 JavaScript
+###  Backend: ⚙️ Node.js · 🚂 Express.js
+###  Databases: 🐘 PostgreSQL · 📦 SQLite
+###  Tools: 🧪 Git · 🐙 GitHub · 🖥️ VS Code
 
 ---
 
