@@ -48,7 +48,7 @@ Jan 2023 – Feb 2023
 
 ## 🏆 Leadership & Involvement:
 - Club Coordinator – Chess Club
-- Organized tournaments and promoted cognitive skill development through chess
+ - Organized tournaments and promoted cognitive skill development through chess
 
 - Class Representative – 2022–23
    Acted as the bridge between students and faculty to ensure smooth academic coordination
