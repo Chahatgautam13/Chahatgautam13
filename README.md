@@ -1,4 +1,4 @@
-#👋 Hey, I’m Chahat Gautam
+# 👋 Hey, I’m Chahat Gautam
 
 ---
 
