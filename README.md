@@ -14,23 +14,23 @@
 
 ---
 
-🛠️ Tech Toolbox:
+## 🛠️ Tech Toolbox:
 Python · SQL · Data Structures & Algorithms · JavaScript · HTML · CSS · Node.js · Express.js
 
 ---
 
-💼 Internships:
-AI Intern – IBM SkillsBuild
-Gained hands-on exposure to AI concepts, machine learning models, and their real-world applications.
+## 💼 Internships:
+- AI Intern – IBM SkillsBuild
+-- Gained hands-on exposure to AI concepts, machine learning models, and their real-world applications.
 Feb 2023 – Mar 2023
 
-AI-ML Intern – Tequed Labs
-Worked on data preprocessing, algorithm implementation, and model evaluation in a structured ML learning environment.
+- AI-ML Intern – Tequed Labs
+-- Worked on data preprocessing, algorithm implementation, and model evaluation in a structured ML learning environment.
 Jan 2023 – Feb 2023
 
 ---
 
-🧠 Projects I’m Proud Of:
+## 🧠 Projects I’m Proud Of:
 FMCG Recommendation System
 A hybrid system combining content-based and collaborative filtering to assist middlemen in choosing better products.
 🔗 Published in IJRASET – Mar 2025
