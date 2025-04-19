@@ -21,37 +21,37 @@ Python · SQL · Data Structures & Algorithms · JavaScript · HTML · CSS · No
 
 ## 💼 Internships:
 - AI Intern – IBM SkillsBuild
--- Gained hands-on exposure to AI concepts, machine learning models, and their real-world applications.
+- Gained hands-on exposure to AI concepts, machine learning models, and their real-world applications.
 Feb 2023 – Mar 2023
 
 - AI-ML Intern – Tequed Labs
--- Worked on data preprocessing, algorithm implementation, and model evaluation in a structured ML learning environment.
+- Worked on data preprocessing, algorithm implementation, and model evaluation in a structured ML learning environment.
 Jan 2023 – Feb 2023
 
 ---
 
 ## 🧠 Projects I’m Proud Of:
-FMCG Recommendation System
-A hybrid system combining content-based and collaborative filtering to assist middlemen in choosing better products.
+- FMCG Recommendation System
+- A hybrid system combining content-based and collaborative filtering to assist middlemen in choosing better products.
 🔗 Published in IJRASET – Mar 2025
 
-Simple File Sharing System
-A clean and functional file-sharing platform using web technologies, allowing easy upload and access via links.
+- Simple File Sharing System
+- A clean and functional file-sharing platform using web technologies, allowing easy upload and access via links.
 
 ---
 
-📚 Certifications:
-Python DSA – Udemy
-The Complete Web Development Bootcamp – Udemy
+## 📚 Certifications:
+- Python DSA – Udemy
+- The Complete Web Development Bootcamp – Udemy
 
 ---
 
-🏆 Leadership & Involvement:
--Club Coordinator – Chess Club
---Organized tournaments and promoted cognitive skill development through chess
+## 🏆 Leadership & Involvement:
+- Club Coordinator – Chess Club
+- Organized tournaments and promoted cognitive skill development through chess
 
--Class Representative – 2022–23
---Acted as the bridge between students and faculty to ensure smooth academic coordination
+- Class Representative – 2022–23
+   Acted as the bridge between students and faculty to ensure smooth academic coordination
 
 ---
 
