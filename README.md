@@ -56,8 +56,8 @@ Python · SQL · Data Structures & Algorithms · JavaScript · HTML · CSS · No
 
 ---
 
-🌐 Let’s Connect!
-📧 chahatgautam2003@gmail.com
-🔗 LinkedIn
-🐙 GitHub: You're already here!
+## 🌐 Let’s Connect!
+**📧 chahatgautam2003@gmail.com**
+**🔗 [LinkedIn](https://www.linkedin.com/in/chahat-gautam-/)**
+**🐙 GitHub: You're already here!**
 
