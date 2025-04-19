@@ -1,8 +1,11 @@
-## Hi there 👋
+##👋 Hey, I’m Chahat Gautam
 
-👋 Hey, I’m Chahat Gautam
+---
+
 🚀 A builder by mindset, coder by heart, and learner for life.
-🎓 Computer Science & Engineering student at CMR University, Bengaluru — passionate about building real-world tech solutions and continuously sharpening my skills in Python, DSA, and Web Development.
+🎓 Final-year Computer Science & Engineering student at CMR University, Bengaluru — passionate about building real-world tech solutions and continuously sharpening my skills in Python, DSA, and Web Development.
+
+---
 
 💡 What I’m Into:
 Writing clean, efficient code and solving problems through Data Structures & Algorithms
