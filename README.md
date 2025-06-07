@@ -31,6 +31,7 @@
 
 **📊 Front-End Development Intern – IBM SkillsBuild**
 - Gained hands-on experience in building responsive web applications using HTML, CSS, and JavaScript.
+- 
 📅 *Jan 2023 – Feb 2023*
 
 ---
